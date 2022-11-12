@@ -508,7 +508,6 @@
         p(data-aos="fade-down") Si no se alcanzó el objetivo trazado, es preciso generar acciones de mejora, en procura de elevar el nivel alcanzado o el conocimiento aportado, que impacte en el logro de los objetivos organizacionales. 
 
         p(data-aos="fade-down") Cuando la empresa es muy grande, es necesario establecer un comité de capacitación, en el cual se establecen las variables a tener en cuenta para el desarrollo del programa de capacitación de la organización. A su vez, es preciso tener en cuenta los planes de contingencia y estar preparados para afrontar los cambios imprevistos en la planeación proyectada.
-           
 </template>
 
 <script>

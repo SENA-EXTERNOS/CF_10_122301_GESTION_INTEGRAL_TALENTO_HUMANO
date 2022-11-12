@@ -45,8 +45,7 @@
           li 
             i.fas.fa-angle-right.colorv
             p.mb-0 Mejoramiento en la relación empresa frente a empleados.        
-        p(data-aos="fade-down") Y algo importante, debe tener la aprobación de la gerencia de la empresa.                                           
-                               
+        p(data-aos="fade-down") Y algo importante, debe tener la aprobación de la gerencia de la empresa.             
 </template>
 
 <script>

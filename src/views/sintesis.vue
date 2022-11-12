@@ -15,7 +15,6 @@
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Anexo. Síntesis
-
 </template>
 
 <script>
