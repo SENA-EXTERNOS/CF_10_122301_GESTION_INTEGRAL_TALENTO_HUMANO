@@ -32,20 +32,20 @@
         ul.lista-ul.ps-2
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Aumento en la eficacia organizacional.
+            p.mb-0 Tener un objetivo claro. 
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Mejoramiento en la imagen de la empresa.
+            p.mb-0 Abarcar un programa concreto y planeado en el tiempo.
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Mejoramiento en el clima organizacional.
+            p.mb-0 Incluir las necesidades de capacitación y/o entrenamiento de la organización.
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Aumento en la eficiencia.
+            p.mb-0 Comprender los temas de capacitación.
           li 
             i.fas.fa-angle-right.colorv
-            p.mb-0 Mejoramiento en la relación empresa frente a empleados.        
-        p(data-aos="fade-down") Y algo importante, debe tener la aprobación de la gerencia de la empresa.             
+            p.mb-0 Contener una metodología de medición o evaluación de las capacitaciones.
+        p(data-aos="fade-down") Y algo importante, debe tener la aprobación de la gerencia de la empresa.          
 </template>
 
 <script>

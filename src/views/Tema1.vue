@@ -95,7 +95,7 @@
           div.text-center.bg2.p-2.pt-5.h-100
             p Lograr que el personal se sienta identificado con la empresa.
 
-    p(data-aos="fade-down").mb-5 Algunos de los temas en los cuales se puede capacitar a los empleados, se presentan en la <i>Figura 1.</i>
+    p(data-aos="fade-down").mb-5 Algunos de los temas en los cuales se puede capacitar a los empleados, se presentan en la Figura 1.
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-6
@@ -175,6 +175,8 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/24.svg', alt='')    
       .col-lg-10.my-3
         p(data-aos="fade-down") Recuerde, estos estilos son predominantes y complementarios entre sí, no son mutuamente excluyentes, y es una cuestión básica a tener en cuenta en los programas de formación que ofrecen las empresas. Conocer cómo aprenden los empleados, permite diseñar programas de formación y ambientes de trabajo que conlleven a la productividad y al talento humano moderno. 
+
+    p(data-aos="fade-down").mb-5 Para un proceso de capacitación o formación, se deben tener en cuenta los estilos estudiados anteriormente, y los tipos de aprendizaje que se presentan a continuación:
 
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-12      
@@ -317,8 +319,8 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8       
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
-          h5 Tabla 2. 
-          span Recursos de acuerdo con el tipo de emergencia que se puede presentar en una empresa  
+          h5 Tabla 1. 
+          span Técnicas de entrenamiento 
         .tabla-a.color-secundario.mb-5(data-aos="fade-left") 
           table.text-center
             thead
@@ -326,45 +328,45 @@
                 th(colspan='3') Técnicas de capacitación
             tbody
               tr.bgt1
-                td aprendizaje en acción 
-                td rotación de puestos
-                td seminario taller
+                td Aprendizaje en acción 
+                td Rotación de puestos
+                td Seminario taller
               tr.bgt2
-                td asesoría y reemplazo 
-                td dramatización (role playing) 
-                td simposio
+                td Asesoría y reemplazo 
+                td Dramatización (<i>role playing</i>) 
+                td Simposio
               tr.bgt1
-                td aula expositiva 
-                td e-learning 
-                td In-basket (bandeja de entrada) 
+                td Aula expositiva 
+                td <i>E-learning</i> 
+                td <i>In-basket</i> (bandeja de entrada) 
               tr.bgt2
-                td capacitación a distancia 
-                td entrenamiento de asimilación 
-                td instrucción programada 
+                td Capacitación a distancia 
+                td Entrenamiento de asimilación 
+                td Instrucción programada 
               tr.bgt1
-                td comisiones 
-                td entrenamiento por simuladores 
-                td introducción de grupos 
+                td Comisiones 
+                td Entrenamiento por simuladores 
+                td Introducción de grupos 
               tr.bgt2
-                td conferencia 
-                td entrevista pública 
-                td juegos de estrategia  
+                td Conferencia 
+                td Entrevista pública 
+                td Juegos de estrategia  
               tr.bgt1
-                td debate dirigido 
-                td estudio de caso 
-                td lectura comentada 
+                td Debate dirigido 
+                td Estudio de caso 
+                td Lectura comentada 
               tr.bgt2
-                td debate público 
-                td estudio dirigido 
-                td logia  
+                td Debate público 
+                td Estudio dirigido 
+                td Logia  
               tr.bgt1
-                td panel 
-                td foro 
-                td mesa redonda 
+                td Panel 
+                td Foro 
+                td Mesa redonda 
               tr.bgt2
-                td programa de internado 
-                td seminario 
-                td modelo de comportamiento 
+                td Programa de internado 
+                td Seminario 
+                td Modelo de comportamiento 
 
     p(data-aos="fade-down").mb-5 Y para el desarrollo y complemento de la capacitación, se utilizan apoyos y ayudas didácticas, como son:
 
@@ -410,7 +412,7 @@
             img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/50.svg", alt="alt").img100.m-auto     
         p.text-center.mb-0 Las capacitaciones desde la experiencia.  
 
-    p(data-aos="fade-down") Una vez ejecutada la capacitación, se debe aplicar la última fase del proceso, evaluar los resultados.
+    p(data-aos="fade-down") Una vez ejecutada la capacitación, se debe aplicar la última fase del proceso, <b>evaluar los resultados</b>.
 
     p(data-aos="fade-down").mb-5 En esta fase se consideran los siguientes aspectos:
 
@@ -432,6 +434,8 @@
               img.img-a.img-t.img-w(src='@/assets/curso/temas/53.svg' alt='AvatarTop')
               div.text-center.bg2.p-4.pt-5.h-100
                 p.mb-0 Validar si la técnica de capacitación aplicada fue eficaz, para alcanzar los objetivos trazados.
+
+    p(data-aos="fade-down").mb-5 De igual forma, en el proceso de evaluación de resultados, es necesario analizar y medir tres escenarios claves para determinar el nivel de efectividad. Los cuales son:
 
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-8.my-3 

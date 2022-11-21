@@ -227,12 +227,12 @@ export default {
     },
     {
       referencia:
-        'Cuesta Santos, A. (2010).<i> Gestión del talento humano y el conocimiento. Ecoe Ediciones.</i>',
+        'Cuesta Santos, A. (2010).<i> Gestión del talento humano y el conocimiento</i>. Ecoe Ediciones.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=110',
     },
     {
       referencia:
-        'Louffat, E. (2017). <i>Reclutando y seleccionando al personal. Pearson Educación.</i>',
+        'Louffat, E. (2017). <i>Reclutando y seleccionando al personal</i>. Pearson Educación.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10379',
     },
   ],

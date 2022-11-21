@@ -11,7 +11,7 @@
         .col-lg-4.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='')        
         .col-lg-8.my-3
-          p(data-aos="fade-down") La divulgación de gestión interna permite transmitir información relevante para todo el personal, tanto administrativo, operativo, de servicio al cliente o gerencial, la cual hace posible divulgar la gestión interna, como políticas, directrices, estrategias, lineamientos, actividades, dinámicas, formatos, circulares y comunicados generales.
+          p(data-aos="fade-down") Continuando con la estructura de un presupuesto de capacitación de talento humano, es pertinente recordar que debe incluir todo lo necesario (temas y materiales) para diseñar, desarrollar e implementar las capacitaciones necesarias según necesidades de la organización. Contar con un presupuesto de capacitación acorde con las necesidades, debilidades y fortalezas de los colaboradores de una organización, es fundamental en un ambiente empresarial competitivo.
           .cajon.color-acento-contenido.p-4.mb-5(data-aos="flip-down")
             p(data-aos="fade-down").mb-0 Ese presupuesto de capacitación debe ser eficiente y tener en cuenta factores como: objetivos a lograr, tipo de capacitación (presencial o virtual), materiales, frecuencia, personal a capacitar, intensidad (necesidad de reemplazos de personal), evaluación de aprendizaje, recursos, duración, plan de contingencias, entre otros elementos a considerar.    
 
