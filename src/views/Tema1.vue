@@ -100,8 +100,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-auto
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
-          h5.text-center Figura 1.
-          span #[em Temas en los cuales se puede capacitar]
+          h5.text-center Figura 1
+          |<br> #[em Temas en los cuales se puede capacitar]
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/18.svg', alt='')
@@ -118,11 +118,11 @@
           figure
             img.img-a.img-t(src='@/assets/curso/temas/20.png', alt='')
 
-        .tarjeta.color-primario.p-3(x="94%" y="43%" numero="+")
+        .tarjeta.color-primario.p-3(x="97%" y="43%" numero="+")
           p.mb-0 Uno de los objetivos específicos para capacitar al personal es la adquisición y actualización de las habilidades blandas y duras. Las empresas líderes reconocen que los equipos crecen, son más productivos y se sienten más motivados dentro de una organización que promueve la cultura del aprendizaje.
-        .tarjeta.color-primario.p-3(x="94%" y="60.5%" numero="+")
+        .tarjeta.color-primario.p-3(x="97%" y="60.5%" numero="+")
           p.mb-0 Uno de los objetivos fundamentales de la capacitación es el aumento de la productividad. Esto se da gracias a que los empleados fortalecen habilidades blandas como la comunicación efectiva o la gestión del tiempo, lo que les permite adquirir herramientas prácticas que aumentan su productividad.
-        .tarjeta.color-primario.p-3(x="94%" y="79%" numero="+")
+        .tarjeta.color-primario.p-3(x="97%" y="79%" numero="+")
           p.mb-0 Atraer talento para aumentar el crecimiento de una empresa es fundamental, pero lo es más retener ese talento.
 
     .row.justify-content-center.align-items-center
@@ -328,8 +328,8 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-left")
-          h5 Tabla 1.
-          span #[em Técnicas de entrenamiento]
+          h5 Tabla 1
+          |<br> #[em Técnicas de entrenamiento]
         .tabla-a.color-secundario.mb-5(data-aos="fade-left")
           table.text-center
             thead
